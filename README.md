@@ -54,7 +54,8 @@ npm test
 
 ## App image
 
-![Screen Shot](<Screenshot 2024-07-12 at 16.43.05.png>)
+![Uploading Screenshot 2024-07-12 at 16.43.05.png…]()
+
 [Deployed app](https://mern-stack-wncc.onrender.com/)
 [Repository](https://github.com/Ragnarok344/Mern-stack)
 
